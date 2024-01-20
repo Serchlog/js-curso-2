@@ -20,5 +20,4 @@ function sumaFunction() {
     let num1 = parseInt(prompt("Regalame un número"));
     let num2 = parseInt(prompt("Regalame otro número"));
     alert(num1+num2);
-o
 }
